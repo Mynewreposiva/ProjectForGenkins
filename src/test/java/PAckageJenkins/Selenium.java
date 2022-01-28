@@ -13,6 +13,7 @@ public class Selenium {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\kamma\\OneDrive\\Desktop\\downloads\\chromedriver.exe");
          driver=new ChromeDriver();
         driver.get("https://google.com");
+        System.out.println("this is new line added to push into git hub");
         driver.quit();
 
     }
