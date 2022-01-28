@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="14258" started-at="2022-01-28T08:47:22Z" finished-at="2022-01-28T08:47:37Z">
+    <groups>
+    </groups>
+    <test name="ProjectForGenkins" duration-ms="14258" started-at="2022-01-28T08:47:22Z" finished-at="2022-01-28T08:47:37Z">
+      <class name="PAckageJenkins.Selenium">
+        <test-method status="PASS" signature="seleniumDriver()[pri:0, instance:PAckageJenkins.Selenium@35851384]" name="seleniumDriver" duration-ms="14239" started-at="2022-01-28T08:47:22Z" finished-at="2022-01-28T08:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumDriver -->
+      </class> <!-- PAckageJenkins.Selenium -->
+    </test> <!-- ProjectForGenkins -->
+  </suite> <!-- Default Suite -->
+</testng-results>
